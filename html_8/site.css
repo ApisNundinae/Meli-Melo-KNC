@@ -1,0 +1,33 @@
+html, body{
+    margin:0;
+    padding:0;
+    width:100%;
+    height:100%;
+
+    background-image: url(new.gif);
+    background-position: center;
+    background-size: cover;
+}
+
+
+#boite {
+    top: 7vw;
+	width: 30vw;
+	height:20vw ;
+	position: relative ;
+	left: 16vw;
+}
+
+#boite iframe{
+    display:block;
+    width:100%;
+    height:33.3%;
+    border:none; 
+	
+}
+
+#Bframe {
+	max-height: 62px;
+}
+
+
